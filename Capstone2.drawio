@@ -1,6 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T17:24:19.771Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.4" etag="3bndR4L2Pv1UfpOlUjsK" type="github">
-  <diagram name="Page-1" id="ciLwFc6_xf-5Hv-enScU">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-04-27T07:27:36.928Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wzrIvUxWcHb1TYigY203" version="24.2.8" type="github" pages="3">
+  <diagram name="QCE-Methodology" id="ciLwFc6_xf-5Hv-enScU">
+    <mxGraphModel dx="990" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UL-P-K5Sw1AcmyPK3u9S" name="Capstone-Methodology">
+    <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SuCf60ZqhbGZs732jb4X" name="QCE-Others">
+    <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
