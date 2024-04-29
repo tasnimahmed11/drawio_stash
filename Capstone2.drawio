@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T12:39:56.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="w1SPecOuAyYwMd-ePYjJ" version="24.2.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-29T12:41:02.917Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6oUTRioBHTZwwIWU6RBs" version="24.2.8" type="github" pages="6">
   <diagram name="QCE-Methodology" id="ciLwFc6_xf-5Hv-enScU">
     <mxGraphModel dx="1468" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -107,10 +107,10 @@
         <mxCell id="fCQTFuf_uhUR0CRTtuHA-295" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Training Accuracy&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#CCE5FF;strokeColor=#6C8EBF;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="779" y="336.16" width="130" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="fCQTFuf_uhUR0CRTtuHA-298" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Evaluate performance between noise-free and noise-injected models using training accuracy across noise probabilities.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="fCQTFuf_uhUR0CRTtuHA-298" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Evaluate performance between noise-free and noise-injected models using training accuracy across noise probabilities.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="780" y="347.16" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fCQTFuf_uhUR0CRTtuHA-299" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- Compare the performance of noise-free models with noise-injected models based on validation accuracy&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- Compare the noise robustness of the algorithms against each other&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="fCQTFuf_uhUR0CRTtuHA-299" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- Compare the performance of noise-free models with noise-injected models based on validation accuracy&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- Compare the noise robustness of the algorithms against each other&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="911" y="344.16" width="219" height="55.6" as="geometry" />
         </mxCell>
         <mxCell id="fCQTFuf_uhUR0CRTtuHA-304" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Selection of Top Performing HQNN Models&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
