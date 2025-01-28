@@ -2915,7 +2915,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XD91bkSWVLWvi_06LX-O-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="187.96" width="550" height="107" as="geometry" />
+          <mxGeometry x="170" y="187.96" width="546" height="107" as="geometry" />
         </mxCell>
         <mxCell id="b7SPzTH96vG0t7f8bbq0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="beLe2R-T7r_y9gU2xMOr-17" target="beLe2R-T7r_y9gU2xMOr-11">
           <mxGeometry relative="1" as="geometry" />
@@ -2937,19 +2937,19 @@
           <mxGeometry x="174.5" y="80" width="271" height="17.52" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="480" y="80" width="240" height="101" as="geometry" />
+          <mxGeometry x="480" y="80" width="236" height="101" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-12" value="&lt;b style=&quot;&quot;&gt;&lt;font&gt;Outcome Analysis&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="520" y="84" width="160" height="9" as="geometry" />
+          <mxGeometry x="518" y="84" width="160" height="9" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="489" y="112" width="111" height="58" as="geometry" />
+          <mxGeometry x="487" y="112" width="111" height="58" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-14" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="600.25" y="112" width="111" height="58" as="geometry" />
+          <mxGeometry x="598.25" y="112" width="111" height="58" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-16" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Validation Accuracy&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#CCE5FF;strokeColor=#6C8EBF;fontColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="600.25" y="99" width="111" height="13" as="geometry" />
+          <mxGeometry x="598.25" y="99" width="111" height="13" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-18" value="&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Comparative Analysis of HQNN Models&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="970" y="547.62" width="400" height="21" as="geometry" />
@@ -2961,13 +2961,13 @@
           <mxGeometry x="72" y="99" width="79.14" height="78" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-193" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px; line-height: 70%;&quot;&gt;Evaluate training accuracy of noise-injected models against noise-free&amp;nbsp; models across noise levels.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="490.25" y="140" width="110" height="2" as="geometry" />
+          <mxGeometry x="488.25" y="140" width="110" height="2" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-194" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Compare noise-free and noise-injected models&#39; validation accuracy to assess noise robustness.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="598.13" y="126" width="114.12" height="27.96" as="geometry" />
+          <mxGeometry x="596.13" y="126" width="114.12" height="27.96" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-206" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Training Accuracy&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#CCE5FF;strokeColor=#6C8EBF;fontColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="489.25" y="99" width="111" height="13" as="geometry" />
+          <mxGeometry x="487.25" y="99" width="111" height="13" as="geometry" />
         </mxCell>
         <mxCell id="XD91bkSWVLWvi_06LX-O-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://paravisionlab.co.in/wp-content/uploads/2024/05/ImageGenerated-by-GAN150Epochs.jpg;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="73.43" y="197" width="79.14" height="78.55" as="geometry" />
