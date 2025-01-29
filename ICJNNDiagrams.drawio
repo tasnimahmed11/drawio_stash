@@ -2934,7 +2934,7 @@
           <mxGeometry x="70" y="80" width="85" height="215" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-10" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;Noise Injected Training and Validation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="174.5" y="80" width="271" height="17.52" as="geometry" />
+          <mxGeometry x="182.5" y="80" width="271" height="17.52" as="geometry" />
         </mxCell>
         <mxCell id="beLe2R-T7r_y9gU2xMOr-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="480" y="80" width="236" height="101" as="geometry" />
